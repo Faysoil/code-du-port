@@ -14,10 +14,10 @@ export default function Contact() {
           <div className="md:ml-4">
             <header className="">
               <h1 className="text-gray-50 font-semibold text-2xl">
-                Get in touch, let's talk.
+                N'hésitez pas a me contacter.
               </h1>
               <p className="font-light text-base text-gray-200 mt-2">
-                Fill in the details and I'll get back to you as soon as I can.
+                J'y repondrait le plus rapidement possible.
               </p>
             </header>
             <div className="icons-container inline-flex flex-col my-20">
@@ -144,7 +144,7 @@ export default function Contact() {
           <form className="form rounded-lg bg-white p-4 flex flex-col">
             <label htmlFor="name" className="text-sm text-gray-600 mx-4">
               {" "}
-              Your Name
+              Votre nom
             </label>
             <input
               type="text"
@@ -175,7 +175,7 @@ export default function Contact() {
               type="submit"
               className="bg-blue-500 rounded-md w-1/2 mx-4 mt-8 py-2 text-gray-50 text-xs font-bold"
             >
-              Send Message
+              Envoyer
             </button>
           </form>
         </div>
