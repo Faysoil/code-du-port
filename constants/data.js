@@ -49,14 +49,38 @@ const userData = {
       
     },
   ],
+  veilletechno : [
+    "Ici c'est la veille tecnho sa mere"
+
+  ],
+  certifications: [
+    
+    {
+      title: "Suivie du cours sur la cybersécurité",
+      imgUrl: "/secnum.png",
+    },
+    {
+      title: "HTML.",
+      imgUrl: "/html.jpg",
+    },
+    {
+      title: "Python pour débutant.",
+      imgUrl: "/python.png",
+    },
+    {
+      title: "SQL.",
+      imgUrl: "/sql.png",
+    },
+    
+    
+
+  ],
   about: {
     title:
       "Je suis un étudiant en informatique voulant se specialisé dans la création de site web ou d'applications",
-    description: [
-      `J'ai toujours été passionné d'informatique et de programmation au point ou je savait quel bac je voulait faire depuis le début du college et qu'après je voulait devenir programmeur.`,
-      `J'ai appris le langage html, css et python en seconde et c'est à ce moment que je savait que je voulait créer des site web mais c'est après plusieurs années que j'ai découvert que le nextjs offre beaucoup plus de possibilités.`,
-      `Maintenant je connais beaucoup plus de langages et toutes les possibilités qu'ils offrent mais je n'ai pas arréter de vouloir créer des sites web et le plaisir que j'ai pris à créer celui la est une preuve`,
-    ],
+
+   
+  
     currentProject: "BTS Services Informatique aux Organisations (SIO)",
     currentProjectUrl: "https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/bts-services-informatiques-aux-organisations-option-b-solutions-logicielles-et-applications-metiers",
   },
@@ -67,6 +91,7 @@ const userData = {
       year: "2022",
       companyLink: "https://www.linkedin.com/company/eventiofr/",
       desc: "Apprentissage du langage de programmation Javascrpit et de la technologie NextJS dans le cadre d'un stage d'apprentissage en entreprise.",
+      
     },
     {
       title: "Apprentissage C# et SQL",
@@ -101,8 +126,9 @@ const userData = {
       company: "Lycée Frederic Fays, Villeurbanne.",
       year: "2017-2018",
       companyLink: "https://lyc-frederic-fays.ent.auvergnerhonealpes.fr/",
-      desc: "J'ai choisi l'option développement car la programmation m'interessait déja à ce moment la et je pensait prendre de l'avance en apprenant des langages en seconde.",
+
     },
+
   ],
   resumeUrl:
     "https://docs.google.com/document/d/1xefPEm4BXKtN3jju2Ix1ad1rZ1gOKcZF/edit?rtpof=true",
