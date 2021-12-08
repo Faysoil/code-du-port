@@ -7,47 +7,27 @@ const userData = {
   phone: "+33 636124315",
   address: "Lyon, France.",
   projects: [
+   
     {
-      title: "C'est quoi le BTS SIO?",
-      link: "https://tailwindmasterkit.com",
+      
+      title: "GSB BDD",
+      link: "/gsb",
       imgUrl: "/tmk.jpg",
-    },
-    {
-      title: "Mon lycée.",
-      link: "https://lyc-jacques-brel.ent.auvergnerhonealpes.fr/",
-      imgUrl: "/placeholdertech.png",
-    },
-    {
-      title: "Attestation de suivie des cours de cyber-sécurité de l'ANSSI.",
-      link: "https://secnumacademie.gouv.fr/",
-      imgUrl: "/portfolio.png",
-    },
-    {
-      title: "Certification HTML",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
-    },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
       
     },
+    
+    {
+      title: "EatIt.",
+      link: "/eatit",
+      imgUrl: "/placeholdertech.png",
+    },
+
+    {
+      title: "...actuellement",
+  
+      imgUrl: "/eventio.jpg",
+    },
+   
   ],
   veilletechno : [
     "Ici c'est la veille tecnho sa mere"
