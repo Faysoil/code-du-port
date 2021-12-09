@@ -10,7 +10,7 @@ const userData = {
    
     {
       
-      title: "GSB BD",
+      title: "GSB BDD",
       link: "/gsb",
       imgUrl: "/tmk.jpg",
       
