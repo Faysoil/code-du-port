@@ -81,7 +81,7 @@ export default function FavouriteProjects() {
                 <br/>
               </p>
               <div class="flex justify-between pl-2">
-                <h3 class="font-bold text-2xl">Veille technologique : Horus.</h3>
+                <h3 class="font-bold text-2xl">Veille technologique : Horus</h3>
                 <i class="fas fa-quote-right text-2xl" />
               </div>
             </div>
