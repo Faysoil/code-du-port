@@ -6,6 +6,10 @@ const userData = {
   email: "bacari.faysoil@gmail.com",
   phone: "+33 636124315",
   address: "Lyon, France.",
+
+  certif:[{
+
+  }],
   projects: [
    
     {
@@ -33,8 +37,10 @@ const userData = {
     "Ici c'est la veille tecnho sa mere"
 
   ],
-  certifications: [
-    
+  
+  
+  certifications: [/*
+   
     {
       title: "Suivie du cours sur la cybersécurité",
       imgUrl: "/secnum.png",
@@ -51,6 +57,23 @@ const userData = {
       title: "SQL.",
       imgUrl: "/sql.png",
     },
+    {
+      title: "Suivie du cours sur la cybersécurité",
+      imgUrl: "/secnum.png",
+    },
+    {
+      title: "HTML.",
+      imgUrl: "/html.jpg",
+    },
+    {
+      title: "Python pour débutant.",
+      imgUrl: "/python.png",
+    },
+    {
+      title: "SQL.",
+      imgUrl: "/sql.png",
+    },
+*/
     
     
 
@@ -111,10 +134,9 @@ const userData = {
 
   ],
   resumeUrl:
-    "https://docs.google.com/document/d/1xefPEm4BXKtN3jju2Ix1ad1rZ1gOKcZF/edit?rtpof=true",
+    "https://drive.google.com/file/d/1fjMPzhLFACB4pZQVEiIWDXe-gH1QkhIK/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/soisoiact3",
-    twitter: "https://twitter.com/elonmuskfr?failedScript=main",
     linkedin: "https://www.linkedin.com/in/faysoil-bacari-345b58207/",
     github: "https://github.com/Faysoil",
     facebook: "https://www.facebook.com/faysoil.bacari.33/",

@@ -15,6 +15,7 @@ export default function eatit() {
                         <div class="text-pink-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-pink-300 mt-8">
                             <i class="fas fa-rocket text-xl"></i>
                         </div>
+                        
                         <h3 class="text-3xl font-semibold">EAT IT</h3>
                         <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
                             Résumé :
@@ -31,6 +32,7 @@ export default function eatit() {
                                         <h4 class="text-blueGray-500">
                                             Codage de l'aplication en C#
                                         </h4>
+                                        
                                     </div>
                                 </div>
                             </li>
@@ -70,7 +72,6 @@ export default function eatit() {
                 </div>
             </footer>
         </section>
-
-
     );
+
 }

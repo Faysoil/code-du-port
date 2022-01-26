@@ -45,5 +45,6 @@ const ProjectCard = ({ title, link, imgUrl, number }) => {
         </h1>
       </div>
     </a>
+    
   );
 };
