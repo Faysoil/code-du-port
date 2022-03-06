@@ -27,14 +27,14 @@ const userData = {
     },
 
     {
-      title: "...actuellement",
-  
+      title: "Eventio",
+      link: "/eventio",
       imgUrl: "/eventio.jpg",
     },
    
   ],
   veilletechno : [
-    "Ici c'est la veille tecnho sa mere"
+    
 
   ],
   
@@ -101,28 +101,28 @@ const userData = {
       company: "Lycée Jacques Brel, Vénissieux.",
       year: "2021",
       companyLink: "https://cas.ent.auvergnerhonealpes.fr/login?selection=LYON-ATS_parent_eleve&service=https%3A%2F%2Flyc-jacques-brel.ent.auvergnerhonealpes.fr%2Fsg.do%3FPROC%3DIDENTIFICATION_FRONT&submit=Valider",
-      desc: "Continuité de l'apprentissage de langages de programmation dans le cadre de mon BTS.",
+      desc: "Continuité de l'apprentissage de langages de progrmmation dans le cadre de mon BTS.",
     },
     {
-      title: "Certification et initiation cybersecurité",
+      title: "Certifications et initiation cybersecurité",
       company: "Lycée Jacques Brel, Vénissieux.",
       year: "2021",
       companyLink: "https://cas.ent.auvergnerhonealpes.fr/login?selection=LYON-ATS_parent_eleve&service=https%3A%2F%2Flyc-jacques-brel.ent.auvergnerhonealpes.fr%2Fsg.do%3FPROC%3DIDENTIFICATION_FRONT&submit=Valider",
-      desc: "Initiation et obtention d'une certification à la cybersécurité.",
+      desc: "Nous avons été initié à la cybersécurité, passer une certificationet avons une epreuve de BTS sur cette matiere.",
     },
     {
       title: "Apprentissage Wordpress, C++ et PHP.",
       company: "Lycée Jacques Brel, Vénissieux.",
       year: "2020-2021",
       companyLink: "https://cas.ent.auvergnerhonealpes.fr/login?selection=LYON-ATS_parent_eleve&service=https%3A%2F%2Flyc-jacques-brel.ent.auvergnerhonealpes.fr%2Fsg.do%3FPROC%3DIDENTIFICATION_FRONT&submit=Valider",
-      desc: "Apprentissage de nombreux langages lors de la 1ere année de BTS.",
+      desc: "J'ai appris de nombreux langages lors de ma 1ere année de BTS.",
     },
     {
       title: "Baccalaureat STI2D",
       company: "Lycée Frederic Fays, Villeurbanne..",
       year: "2020",
       companyLink: "https://lyc-frederic-fays.ent.auvergnerhonealpes.fr/",
-      desc: "Obtention du baccalauréat STI2D (SCIENCES ET TECHNOLOGIES DE L'INDUSTRIE ET DU DÉVELOPPEMENT DURABLE) option SPECIALITÉ SYSTÈME D'INFORMATION ET NUMÉRIQUE (SIN).",
+      desc: "J'ai obtenu mon baccalauréat STI2D (SCIENCES ET TECHNOLOGIES DE L'INDUSTRIE ET DU DÉVELOPPEMENT DURABLE) option SPECIALITÉ SYSTÈME D'INFORMATION ET NUMÉRIQUE (SIN).",
     },
     {
       title: "Apprentissage HTMl et CSS",

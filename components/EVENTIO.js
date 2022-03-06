@@ -1,14 +1,14 @@
 import React from "react";
 import userData from "@constants/data";
 
-export default function eatit() {
+export default function eventio() {
     return (
 
 
         <section class="relative pt-12 bg-blueGray-50">
             <div class="items-center flex flex-wrap">
                 <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
-                    <img alt="..." class="max-w-full rounded-lg shadow-lg" src="placeholdertech.png" />
+                    <img alt="..." class="max-w-full rounded-lg shadow-lg" src="eventio.jpg" />
                 </div>
                 <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
                     <div class="md:pr-12">
@@ -16,11 +16,11 @@ export default function eatit() {
                             <i class="fas fa-rocket text-xl"></i>
                         </div>
                         
-                        <a href="https://prezi.com/p/nijepwkajhjw/?present=1"> <h3 class="text-3xl font-semibold text-blue-500">EAT IT</h3></a>
+                        <a href="https://prezi.com/p/ynyabcqzsaoc/?present=1"> <h3 class="text-3xl font-semibold text-blue-500 ">EVENTIO</h3></a>
                         <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
                             Résumé :
 
-                           Application de commandes en restaurant en fonction de la ville après la création d'un compte utilisateur codé en C#.
+                           Création d'un blog codé en Javascript.
                         </p>
                         <ul class="list-none mt-6">
                             <li class="py-2">
@@ -30,7 +30,7 @@ export default function eatit() {
                                     </div>
                                     <div>
                                         <h4 class="text-blueGray-500">
-                                            Codage de l'aplication en C#
+                                            Codage de l'aplication en Javascript
                                         </h4>
                                         
                                     </div>
@@ -42,7 +42,7 @@ export default function eatit() {
                                         <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fab fa-html5"></i></span>
                                     </div>
                                     <div>
-                                        <h4 class="text-blueGray-500">Création de base de donnée codée en SQL et </h4>
+                                        <h4 class="text-blueGray-500">Création de base de donnée codée Firebase</h4>
                                     </div>
                                 </div>
                             </li>
@@ -52,7 +52,7 @@ export default function eatit() {
                                         <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="far fa-paper-plane"></i></span>
                                     </div>
                                     <div>
-                                        <h4 class="text-blueGray-500">Utilisation de XAMARIN</h4>
+                                    <a href="https://nextjsblogfay.vercel.app"> <h4 class="text-blue-500">cliquez ici pour acceder au blog</h4></a>
                                     </div>
                                 </div>
                             </li>
