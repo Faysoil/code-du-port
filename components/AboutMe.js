@@ -37,14 +37,14 @@ export default function AboutMe() {
                 Contact
               </h1>
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
-                Si vous avez des questions n'hésitez pas à m'envoyer un{" "}
+                Si vous avez des questions, n'hésitez pas à m'envoyer un{" "}
                 <a
                   href={`mailto:${userData.email}`}
                   className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
                 >
                   mail
                 </a>{" "}
-                et j'y repondrait au plus vite.
+                et j'y repondrai au plus vite.
               </p>
 
             </div>
@@ -54,7 +54,7 @@ export default function AboutMe() {
                 Offres d'emplois
               </h1>
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
-                Pour des offres d'emplois je vous invite a regarder mon {" "}
+                Pour des offres d'emplois, je vous invite à regarder mon {" "}
                 <a
                   href={userData.resumeUrl}
                   target="__blank"
@@ -62,7 +62,7 @@ export default function AboutMe() {
                 >
                   CV
                 </a>{" "}
-                et j'éspere qu'il vous plairas.
+                et j'éspere qu'il vous plaira.
               </p>
             </div>
             {/* Social Links */}
@@ -153,18 +153,19 @@ export default function AboutMe() {
                 <img class="h-28 w-28 object-cover object-center rounded-full"
                   src="/avatar2.jpg" alt="photo" />
                 <div>
-                  <p class="text-xl text-gray-700 font-normal mb-1">Faysoil Bacari</p>
+                  <p class="text-xl text-black font-normal mb-1">Faysoil Bacari</p>
                   <p class="text-base text-blue-600 font-normal">Etudiant en développement</p>
                 </div>
               </div>
               <div>
-                <p class="text-gray-400 leading-loose font-normal text-base">
-                  <p>J'ai toujours été passionné d'informatique et de programmation au point ou je savait quel bac je voulait faire depuis le début du college et qu'après je voulait devenir programmeur.</p>
+                <p class="text-black leading-loose font-normal text-base">
+                  <p>J'ai toujours été passionné par l'informatique et la programmation, c'était une évidence pour moi qu'après l'obtention de mon baccalauréat STI2D que je fasse un BTS SIO dans le but de devenir programmeur.</p>
 
 
-                  <p>J'ai appris le langage html, css et python en seconde et c'est à ce moment que je savait que je voulait créer des site web mais c'est après plusieurs années que j'ai découvert que le nextjs offre beaucoup plus de possibilités.</p>
+                  <p>C'est en seconde c'est après avoir appris le langage HTML, CSS et Python que je savais que je voulais créer des sites pour l'aspect créatif.</p>
+                  <p>C'est après plusieurs années que j'ai découvert que le NextJS offre beaucoup plus de possibilités.</p>
 
-                  <p>Maintenant je connais beaucoup plus de langages et toutes les possibilités qu'ils offrent mais je n'ai pas arréter de vouloir créer des sites web et le plaisir que j'ai pris à créer celui la est une preuve</p>
+                  <p>Maintenant je connais beaucoup plus de langages et toutes les possibilités qu'ils offrent mais je n'ai pas arrété de vouloir créer des sites web et le plaisir que j'ai pris à créer celui-là en est une preuve.</p>
                 </p>
               </div>
             </div>

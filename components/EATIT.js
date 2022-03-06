@@ -20,7 +20,7 @@ export default function eatit() {
                         <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
                             Résumé :
 
-                           Application de commandes en restaurant en fonction de la ville après la création d'un compte utilisateur codé en C#.
+                           Application recherche de restaurants en fonction de la ville après la création d'un compte utilisateur codé en C#.
                         </p>
                         <ul class="list-none mt-6">
                             <li class="py-2">
