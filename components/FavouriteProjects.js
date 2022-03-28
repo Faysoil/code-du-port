@@ -78,7 +78,9 @@ export default function FavouriteProjects() {
                     <br/>
 
                 <p>Les activités simple comme lire une étiquette alimentaire. Naviguer sur un passage pour piétons. Reconnaître un ami.
-                  Ces tâches deviendrons à la portée de n'importe quel malvoyants. </p>
+                  Ces tâches deviendrons à la portée de n'importe quel malvoyants.</p>
+                  <br/>
+                  <a href="https://www.netvibes.com/bacarifaysoil#General"><p>Cliquez pour plus d'infos...</p></a>
                   <br/>
                   
                 <br/>

@@ -134,7 +134,7 @@ const userData = {
 
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1fjMPzhLFACB4pZQVEiIWDXe-gH1QkhIK/view?usp=sharing",
+    "https://drive.google.com/file/d/13DhUYsF4BQwHPjybQnSadpNNuKJQ3N6i/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/soisoiact3",
     linkedin: "https://www.linkedin.com/in/faysoil-bacari-345b58207/",
