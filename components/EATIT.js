@@ -60,6 +60,93 @@ export default function eatit() {
                     </div>
                 </div>
             </div>
+
+
+
+            <div class="items-center flex flex-wrap">
+                <div class="w-full md:w-4/12 mt-9 ml-auto mr-auto px-4">
+                    <img alt="https://www.linkedin.com/company/eventiofr/" class="max-w-full rounded-lg shadow-lg" src="csharp1.png" />
+                </div>
+                <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
+                    <div class="md:pr-12">
+                        
+                        <p class="mt-9 text-lg leading-relaxed text-blueGray-500">
+                             Utilisation de visual studio 2019.
+                        </p>
+                        <ul class="list-none mt-6">
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fas fa-fingerprint"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">
+                                        Aperçu de l'application sur un ecran virtuel.
+                                        </h4>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            
+
+            <div class="items-center flex flex-wrap">
+                <div class="w-full md:w-4/12 mt-9 ml-auto mr-auto">
+                    <img alt="https://www.linkedin.com/company/eventiofr/" class="max-w-full rounded-lg shadow-lg" src="design.png" />
+                </div>
+                <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
+                    <div class="md:pr-12">
+                        
+                        <p class="mt-9 text-lg leading-relaxed text-blueGray-500">
+                             Application repertoriant les infos des restaurants.
+                        </p>
+                        <ul class="list-none mt-6">
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fas fa-fingerprint"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">
+                                            les infos seront ajouter a la base de données SQL
+                                        </h4>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fab fa-html5"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">Elle contient le nom du restaurant, la ville, et les prix.</h4>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
             <footer class="relative  pt-8 pb-6 mt-8">
                 <div class="container mx-auto px-4">
                     <div class="flex flex-wrap items-center md:justify-between justify-center">

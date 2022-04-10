@@ -159,12 +159,11 @@ export default function AboutMe() {
               </div>
               <div>
                 <p class="text-gray-400 leading-loose font-normal text-base">
-                  <p>J'ai toujours été passionné d'informatique et de programmation au point ou je savait quel bac je voulait faire depuis le début du college et qu'après je voulait devenir programmeur.</p>
+                  <p>Ayant toujours été passionné par l’informatique, cela a été une évidence pour moi, dès le collège, de faire un bac STI2D dans le but de devenir programmeur.</p>
 
+                  <p>De ce fait depuis le lycée, j’apprends différents langages informatiques tels que HTML, CSS et Python qui m’ont permis d’acquérir des connaissances au sujet du développement web et les bases données et de ce fait étoffer mes connaissances en tant que technicien supérieur en SIO. Et c'est pendant ses 2 années en BTS et dmes stages que j’ai découvert Javascript, Jqueri et NextJs offrant diverses possibilités dans la création de site web. </p>
 
-                  <p>J'ai appris le langage html, css et python en seconde et c'est à ce moment que je savait que je voulait créer des site web mais c'est après plusieurs années que j'ai découvert que le nextjs offre beaucoup plus de possibilités.</p>
-
-                  <p>Maintenant je connais beaucoup plus de langages et toutes les possibilités qu'ils offrent mais je n'ai pas arréter de vouloir créer des sites web et le plaisir que j'ai pris à créer celui la est une preuve</p>
+                  <p>La découverte de ces langages a contribué dans ma soif de créer de nouveaux sites web. D’ailleurs, le plaisir que j’ai pris à construire celui-là en est une preuve et j’espère qu’il vous plaira tout autant que moi.</p>
                 </p>
               </div>
             </div>

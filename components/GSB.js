@@ -68,6 +68,95 @@ export default function GSB() {
                               </div>
                           </div>
                       </div>
+
+
+                      <div class="items-center flex flex-wrap">
+                <div class="w-full md:w-4/12 mt-9 ml-auto mr-auto">
+                    <img alt="https://www.linkedin.com/company/eventiofr/" class="max-w-full rounded-lg shadow-lg" src="swiss.png" />
+                </div>
+                <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
+                    <div class="md:pr-12">
+                        
+                        <p class="mt-9 text-lg leading-relaxed text-blueGray-500">
+                             Formulaire de connexion.
+                        </p>
+                        <ul class="list-none mt-6">
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fas fa-fingerprint"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">
+                                            Identifiants stockés dans une base de données sql.
+                                        </h4>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fab fa-html5"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">Codé en PHP</h4>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="items-center flex flex-wrap">
+                <div class="w-full md:w-4/12 mt-9 ml-auto mr-auto">
+                    <img alt="https://www.linkedin.com/company/eventiofr/" class="max-w-full rounded-lg shadow-lg" src="bourdin.png" />
+                </div>
+                <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
+                    <div class="md:pr-12">
+                        
+                        <p class="mt-9 text-lg leading-relaxed text-blueGray-500">
+                             Renseignement de fiches de frais.
+                        </p>
+                        <ul class="list-none mt-6">
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fas fa-fingerprint"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">
+                                            Possibilité de les selectionner en fotion du mois ou de l'année
+                                        </h4>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fab fa-html5"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">Seul les admins peuvent les changer ou y avoir accés apres leurs renseignement</h4>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
                       <footer class="relative  pt-8 pb-6 mt-8">
                           <div class="container mx-auto px-4">
                               <div class="flex flex-wrap items-center md:justify-between justify-center">

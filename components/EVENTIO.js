@@ -8,7 +8,7 @@ export default function eventio() {
         <section class="relative pt-12 bg-blueGray-50">
             <div class="items-center flex flex-wrap">
                 <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
-                    <img alt="..." class="max-w-full rounded-lg shadow-lg" src="eventio.jpg" />
+                    <img alt="https://www.linkedin.com/company/eventiofr/" class="max-w-full rounded-lg shadow-lg" src="eventio.jpg" />
                 </div>
                 <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
                     <div class="md:pr-12">
@@ -60,6 +60,143 @@ export default function eventio() {
                     </div>
                 </div>
             </div>
+            <div class="items-center flex flex-wrap">
+                <div class="w-full md:w-4/12 mt-9 ml-auto mr-auto">
+                    <img alt="https://www.linkedin.com/company/eventiofr/" class="max-w-full rounded-lg shadow-lg" src="index.png" />
+                </div>
+                <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
+                    <div class="md:pr-12">
+                        
+                        <p class="mt-9 text-lg leading-relaxed text-blueGray-500">
+                        Création de la page d'accueil qui contiendras tout les posts.
+                        </p>
+                        <ul class="list-none mt-6">
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fas fa-fingerprint"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">
+                                            J'ai donné le theme de tutoriels pour effet sur le logiciel sony vegas
+                                        </h4>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fab fa-html5"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">Tout les utilisateurs peuvent poster quelque chose.</h4>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="items-center flex flex-wrap">
+                <div class="w-full md:w-4/12 mt-9 ml-auto mr-auto">
+                    <img alt="https://www.linkedin.com/company/eventiofr/" class="max-w-full rounded-lg shadow-lg" src="com.png" />
+                </div>
+                <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
+                    <div class="md:pr-12">
+                        
+                        <p class="mt-9 text-lg leading-relaxed text-blueGray-500">
+                             Intégration d'un espace commentaire.
+                        </p>
+                        <ul class="list-none mt-6">
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fas fa-fingerprint"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">
+                                            Seuls les personnes inscrites peuvent commenter
+                                        </h4>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fab fa-html5"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">Les commentaires sont stockés dans la base de données</h4>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="items-center flex flex-wrap">
+                <div class="w-full md:w-4/12 mt-9 ml-auto mr-auto">
+                    <img alt="https://www.linkedin.com/company/eventiofr/" class="max-w-full rounded-lg shadow-lg" src="firebase.png" />
+                </div>
+                <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
+                    <div class="md:pr-12">
+                        
+                        <p class="mt-9 text-lg leading-relaxed text-blueGray-500">
+                            Création d'une base de données Firebase.
+                        </p>
+                        <ul class="list-none mt-6">
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fas fa-fingerprint"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">
+                                            Contient les emails, mots de passe, posts, commentaires et images postés.
+                                        </h4>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    <div>
+                                        <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fab fa-html5"></i></span>
+                                    </div>
+                                    <div>
+                                        <h4 class="text-blueGray-500">Simple d'utilisation.</h4>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-2">
+                                <div class="flex items-center">
+                                    
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
             <footer class="relative  pt-8 pb-6 mt-8">
                 <div class="container mx-auto px-4">
                     <div class="flex flex-wrap items-center md:justify-between justify-center">
@@ -72,6 +209,10 @@ export default function eventio() {
                 </div>
             </footer>
         </section>
+        
+        
+        
+        
     );
 
 }

@@ -69,18 +69,16 @@ export default function FavouriteProjects() {
               </div>
               <p class="text-white my-5 px-2">
               
-                <p> Pour apporter plus d'indépendance à la vie des personnes malvoyantes, un nouvel appareil 
-                  portable appelé Horus utilise le deeplearning et une vision par ordinateur alimentés
-                   par GPU pour les aider à « voir » en décrivant ce que ses utilisateurs regardent.</p>
+                <p>Pour apporter plus d'indépendance à la vie des personnes malvoyantes, un nouvel appareil portable appelé Horus utilise le Deeplearning
+                   et une vision par ordinateur alimentés par GPU pour les aider à « voir » en décrivant ce que ces utilisateurs regardent.</p>
               <br/>
-                <p>Les testeurs alpha décrivent Horus comme un appareil qui change la vie, a déclaré Saverio
-                    Murgia, PDG et co-fondateur d'Eyra, la star-up a l'origine du produit. </p>
+                <p>« Les testeurs alpha décrivent Horus comme un appareil qui change la vie », 
+                  a déclaré Saverio Murgia, PDG et co-fondateur d'Eyra, la star-up à l'origine du produit.</p>
                     <br/>
 
-                <p>Les activités simple comme lire une étiquette alimentaire. Naviguer sur un passage pour piétons. Reconnaître un ami.
-                  Ces tâches deviendrons à la portée de n'importe quel malvoyants.</p>
+                <p>Les activités simples comme lire une étiquette alimentaire, traverser un passage piéton ou bien reconnaître un ami seront à la portée de n'importe quels malvoyants.</p>
                   <br/>
-                  <a href="https://www.netvibes.com/bacarifaysoil#General"><p>Cliquez pour plus d'infos...</p></a>
+                  <a href="https://www.netvibes.com/bacarifaysoil#General"><p>Cliquez pour accéder au Netvibes...</p></a>
                   <br/>
                   
                 <br/>
