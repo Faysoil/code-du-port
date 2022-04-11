@@ -60,8 +60,10 @@ export default function GSB() {
                                                   <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"><i class="fab fa-html5"></i></span>
                                               </div>
                                               <div>
-                                              <a href="https://drive.google.com/file/d/1WxlI2B8xXwvf8u6GtfhFobFuSaVj0pzL/view?usp=sharing"><h4 class="text-blue">Cliquez pour accéder à la documentation technique</h4></a>
+                                              <a href="https://drive.google.com/file/d/1WxlI2B8xXwvf8u6GtfhFobFuSaVj0pzL/view?usp=sharing">
+                                                  <h9 class="font-semibold text-blue-500">Cliquez pour accéder à la documentation technique</h9></a>
                                               </div>
+                                              
                                           </div>
                                       </li>
                                   </ul>
