@@ -31,6 +31,13 @@ const userData = {
       link: "/eventio",
       imgUrl: "/eventio.jpg",
     },
+
+    {
+      title: "Application de gestion de notes (en cours)",
+      link: "/python",
+      imgUrl: "/icone.png",
+    },
+   
    
   ],
   veilletechno : [
